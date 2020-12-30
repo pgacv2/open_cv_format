@@ -1,0 +1,95 @@
+<?xml version="1.1" encoding="utf-8">
+<openCV version="1.0">
+    <personalInformation>
+        <givenName>My first or given name</givenName>
+        <middleName>My middle name if I have one, or initial if I so choose</middleName>
+        <familyName>My family name</familyName>
+    </personalInformation>
+
+    <contactInformation>
+        <email>something@something.com</email>
+        <email>something_else@something_else.com</email>
+        <url>https://my_amazing_portfolio.com</url>
+        <phone>
+            <countryCode>1</countryCode>
+            <phoneNumber>123-456-7890<phoneNumber>
+        </phone>
+        <phone>
+            <countryCode>56</countryCode>
+            <phoneNumber>987987987 33</phoneNumber>
+        </phone>
+        <location>
+            <city>Somewhere</city>
+            <stateOrProvince>Another where</stateOrProvince>
+            <country>Yet another where</country>
+        </location>
+    </contactInformation>
+
+    <jobTitle>King of the World</jobTitle>
+    <professionalSummary>I'm awesome and you should hire me.</professionalSummary>
+
+    <employmentHistory>
+        <employment>
+            <employerName>Amazing Company</employerName>
+            <location/>
+            <jobTitle>Imaginary CEO</jobTitle>
+            <employmentStartDate>2010</employmentStartDate>
+            <employmentSummary>I did a lot of amazing stuff.</employmentSummary>
+        </employment>
+        <employment>
+            <employerName>Another company that wasn't so amazing</employerName>
+            <location/>
+            <jobTitle>But I was still an amazing employee</jobTitle>
+            <employmentStartDate>2000</employmentStartDate>
+            <employmentEndDate>2010</employmentEndDate>
+            <employmentSummary>Lots of other cool stuff.</employmentSummary>
+        </employment>
+    </employmentHistory>
+
+    <education>
+        <academicInstitution>
+            <institutionName>University of Podunk</institutionName>
+            <degreeTitle>Computer science, yo</degreeTitle>
+            <degreeLevel>Master's</degreeLevel>
+            <yearCompleted>2021</yearCompleted>
+        </academicInstitution>
+        <academicInstitution>
+            <institutionName>A college where I didn't graduate</institutionName>
+            <degreeTitle>Something I studied</degreeTitle>
+            <degreeLevel>Bachelor's</degreeLevel>
+        </academicInstitution>
+        <academicInstitution>
+            <institutionName>High School of the Force</institutionName>
+            <degreeTitle>Jedi Master</degreeTitle>
+            <degreeLevel>Secondary</degreeLevel>
+            <yearCompleted>1999</yearCompleted>
+        </academicInstitution>
+        <academicInstitution>
+            <institutionName>MIT EdX</institutionName>
+            <degreeTitle>Data Science for Data Scientists</degreeTitle>
+            <degreeLevel>Self-directed</degreeLevel>
+            <yearCompleted>2022</yearCompleted>
+        </academicInstitution>
+        <academicInstitution>
+            <institutionName>Some boot camp</institutionName>
+            <degreeTitle>Java for COBOL programmers</degreeTitle>
+            <degreeLevel>Self-directed</degreeLevel>
+            <yearCompleted>2020</yearCompleted>
+        </academicInstitution>
+    </education>
+
+    <certifications>
+        <certification>
+            <issuingOrganization>Medical Association of Narnia</issuingOrganization>
+            <certificationName>Professional Ice Queen minion</certificationName>
+            <certificationNumber>1234567890</certificationNumber>
+            <yearIssued>2021</yearIssued>
+            <yearExpires>3000</yearExpires>
+        </certification>
+        <certification>
+            <issuingOrganization>Agency 42</issuingOrganization>
+            <certificationName>A cert that never expires and has no publicly viewable ID</certificationName>
+            <yearIssued>2015</yearIssued>
+        </certification>
+    </certifications>
+</openCV>
