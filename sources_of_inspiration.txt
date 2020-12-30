@@ -1,0 +1,11 @@
+https://schemas.liquid-technologies.com/HR-XML/2007-04-15/?page=resume_xsd.html
+
+https://jsonresume.org/blog/
+
+https://jsonresume.org/getting-started/
+
+https://github.com/jsonresume
+
+https://europa.eu/europass/en/about-europass
+
+https://europa.eu/europass/en/create-europass-cv
